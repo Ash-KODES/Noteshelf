@@ -1,4 +1,3 @@
 # ANDROID_STUDY_JAM_2022
-Android Projects(KOTLIN),that i made during ASJ
-
-1.Simple notes making app having insertion and deletion operation.
+Android Study Jam Final Project. 
+Simple notes making app made from kotlin supprting insertion and deletion operations.
